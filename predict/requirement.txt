@@ -1,0 +1,14 @@
+skpartial
+filelock
+Flask
+flask_cors
+joblib
+pandas
+Pillow
+portalocker
+pytesseract
+requests
+scikit-learn
+opencv-python
+lxml
+pillow

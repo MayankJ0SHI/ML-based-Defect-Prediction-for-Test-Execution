@@ -1,0 +1,1 @@
+docker build --build-arg GH_USERNAME=<GITHUB USERNAME> --build-arg GH_PAT=<PAT> -t model .
